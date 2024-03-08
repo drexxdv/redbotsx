@@ -4,8 +4,8 @@ html {
         background-color: #363636;
 }
 .square {
-  width: 231px; /* Ancho del cuadrado */
-  height: 123px; /* Altura del cuadrado */
+  width: 500px; /* Ancho del cuadrado */
+  height: 115px; /* Altura del cuadrado */
   background-color: #292929; /* Color de fondo del cuadrado */
   justify-content: center;
   align-items: center;
